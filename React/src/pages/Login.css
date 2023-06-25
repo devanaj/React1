@@ -1,0 +1,70 @@
+body{
+    border: none;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.containerr{
+    background-color: rgb(82, 141, 186);
+    height: 880px;
+    margin-top: 0px;
+    display: flex;
+}
+.login{
+    margin-top: 110px;
+    margin-left: 450px;
+    height: 600px;
+    width: 560px;
+    background-color: white;
+    border-radius: 10px;
+}
+.lo{
+    margin-left: 250px;
+    margin-top: 90px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(61, 59, 59);
+}
+.email{
+    margin-left: 60px;
+    margin-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.entt,.pa{
+    height: 45px;
+    width: 430px;
+    margin-top: 10px;
+    border-style: ridge;
+}
+.pass{
+    margin-top: 20px;
+}
+.check{
+    margin-top: 18px;
+    display: flex;
+    flex-direction: row;
+}
+.show{
+    font-size: 12px;
+    margin-top: 2px;
+    margin-left: 10px;
+}
+.signin{
+    margin-top: 20px;
+}
+.signi{
+    height: 45px;
+    width: 440px;
+    background-color: rgb(82, 141, 186);
+    border-style: none;
+}
+.forgot{
+    margin-left: 115px;
+    margin-top: 45px;
+    font-size: 15px;
+}
+.acc{
+    margin-left: 115px;
+    margin-top: 15px;
+    font-size: 15px;
+}
